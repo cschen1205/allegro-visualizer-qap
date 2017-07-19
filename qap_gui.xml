@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<qap count="12" >
+    <assignment location="0" factory="2" />
+    <assignment location="1" factory="10" />
+    <assignment location="2" factory="8" />
+    <assignment location="3" factory="11" />
+    <assignment location="4" factory="5" />
+    <assignment location="5" factory="9" />
+    <assignment location="6" factory="1" />
+    <assignment location="7" factory="0" />
+    <assignment location="8" factory="4" />
+    <assignment location="9" factory="6" />
+    <assignment location="10" factory="7" />
+    <assignment location="11" factory="3" />
+</qap>
